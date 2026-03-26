@@ -1,0 +1,12 @@
+{
+  "name": "world-cup-entertainment-app",
+  "version": "1.0.0",
+  "description": "A web application for World Cup entertainment.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roadkill88",
+  "license": "ISC"
+}
